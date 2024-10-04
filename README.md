@@ -11,6 +11,4 @@ Features
     High-quality image processing using LANCZOS filter.
 
 
-How to run?
-No Python Installation Needed: Users can run the generated .exe file on their machine without having Python installed, as all necessary components are included in the executable.
-so simply download and run the 'start' file
+
